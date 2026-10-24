@@ -1,0 +1,6 @@
+/**
+ * windowEvent
+ */
+public class windowEvent {
+
+}
